@@ -21,7 +21,6 @@ from the file specified with the --list argument and attempt to send the
 kill signal to each of these hosts. <br><br>
  
 Example server list file:<br>
-# the format for server entries is HOST PORT KEY
 192.168.56.102 44524 OHSNAP
 192.168.56.104 44524 FREEDOM
 192.168.56.105 44524 L33T
